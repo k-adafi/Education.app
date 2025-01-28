@@ -2,7 +2,7 @@
 import React, { useRef } from "react";
 import 'remixicon/fonts/remixicon.css'
 import { Container, Row, Col } from "reactstrap";
-import heroImg from "../../assets/images/hero-img1.png"
+import heroImg from "../../assets/images/hero-img.jpeg"
 import 'bootstrap/dist/css/bootstrap.min.css';
 import "./herosection.css";
 
